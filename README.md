@@ -84,10 +84,9 @@
 ![ahmedalsayanii's GitHub Stats](https://readme-stats-github.pages.dev/api?username=ahmedalsayanii&theme=dark)
 ###
 
-<div align="center">
-  ![ahmedalsayanii Stats](https://readme-stats-github.pages.dev/api/repo?username=ahmedalsayanii&repo=ahmedalsayanii&theme=dark)
-  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ahmedalsayanii&theme=dark)
-  ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20best%20coding%20assistant.&theme=dark&color=%233b82f6&particleColor=%23ffffff&background=%230d1117)
-</div>
+![ahmedalsayanii Stats](https://readme-stats-github.pages.dev/api/repo?username=ahmedalsayanii&repo=ahmedalsayanii&theme=dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ahmedalsayanii&theme=dark)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20best%20coding%20assistant.&theme=dark&color=%233b82f6&particleColor=%23ffffff&background=%230d1117)
+
 
 ###
