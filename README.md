@@ -81,7 +81,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedalsayanii&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ahmedalsayanii's GitHub Stats" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=ahmedalsayanii&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ahmedalsayanii's GitHub Stats" />-->
+<iframe src="https://readme-stats-github.pages.dev/api?username=ahmedalsayanii&theme=dark"/>
 ###
 
 <div align="center">
