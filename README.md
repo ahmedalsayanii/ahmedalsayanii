@@ -85,9 +85,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalsayanii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalsayanii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ahmedalsayanii&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  ![ahmedalsayanii Stats](https://readme-stats-github.pages.dev/api/repo?username=ahmedalsayanii&repo=ahmedalsayanii&theme=dark)
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ahmedalsayanii&theme=dark)
+  ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20best%20coding%20assistant.&theme=dark&color=%233b82f6&particleColor=%23ffffff&background=%230d1117)
 </div>
 
 ###
