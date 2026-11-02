@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Esa from Yemen<br><br>- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently in High-School<br>- ⚡ In my free time I create new websites, discover new libraries!</p>
+<p align="left">I'm Ahmed Esa from Yemen<br><br>- 🔭 I’m working as Full-Stack Developer<br>- ⚡ In my free time I create new websites, discover new libraries!</p>
 
 ###
 
